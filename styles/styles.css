@@ -130,6 +130,14 @@ label:last-child {
 
 
 /* --------- table styles below here --------- */
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+	
 
 
 /* --------- unordered list styles below here --------- */
